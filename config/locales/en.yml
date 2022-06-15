@@ -1,12 +1,15 @@
 en:
   static_pages:
     title: " | Ruby on Rails Tutorial Sample App"
+    main: "sample app"
     home:
       index: "Home"
       title: "Sample App"
       desc: "This is the home page for the
         <a href='https://www.railstutorial.org/'>Ruby on Rails Tutorial</a>
         sample application."
+      logo: "Rails logo"
+      sign_up: "Sign up now!"
     help:
       index: "Help"
       desc: "Get help on the Ruby on Rails Tutorial at the
@@ -29,3 +32,15 @@ en:
       index: "Contact"
       desc: "Contact the Ruby on Rails Tutorial about the sample app at the
         <a href='https://www.railstutorial.org/contact'>contact page</a>."
+    login:
+      index: "Log in"
+    footer:
+      desc:
+        "<small>The <a href='https://www.railstutorial.org/'>Ruby on Rails Tutorial</a>by
+        <a href='https://www.michaelhartl.com/'>Michael Hartl</a>
+        </small>"
+      news: "News"
+  users:
+    sign_up:
+      index: "Sign up"
+    desc: "<p>This will be a signup page for new users.</p>"
